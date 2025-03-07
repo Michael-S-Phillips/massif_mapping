@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 *.xlsx
 =======
 # Byte-compiled / optimized / DLL files
@@ -172,4 +171,5 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
->>>>>>> 5fe1020041cbfdda52963519716a7622b3ccb64a
+
+.DS_Store
